@@ -12,7 +12,7 @@ Emotion recognition from EEG signals is essential for affective computing and ha
 ---
 
 ## Framework
-![EMOD Framework](./overview.pdf)
+![EMOD Framework](./overview.png)
 
 ---
 
